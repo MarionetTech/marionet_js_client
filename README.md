@@ -10,4 +10,4 @@ marionet('appKey', 'xxxxxxxxxxxxxxxxxxxx');
 </script>
 ```
 
-More information on placing the code on your site can be found in the [official documentations](http://marionet.tech/js-api).
+More information on placing the code on your site can be found in the [official documentations](http://marionet.tech/js-client).
